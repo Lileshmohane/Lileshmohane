@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 )]
 <h1 align="center">Hi 👋, I'm Lilesh Mohane</h1>
 <h3 align="center">A passionate frontend developer and ml from India</h3>
-<img align="right" alt="coding" width="400"scr="https://tse3.mm.bing.net/th?id=OIP.F2B_qdATuAurjgua5tdPfgHaEs&pid=Api&P=0">
+<img align="right" alt="coding" width="400"scr="https://c.tenor.com/whgQwNlVvNkAAAAj/xero-code.gif">
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **dsa and machine learning**
