@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![MasterHead](https://st3.depositphotos.com/2228340/32434/i/450/depositphotos_324349024-stock-photo-global-marketing.jpg
-)]
+
 <h1 align="center">Hi 👋, I'm Lilesh Mohane</h1>
 <h3 align="center">A passionate frontend developer and ml from India</h3>
 <img align="right" alt="coding" width="400"scr="https://c.tenor.com/whgQwNlVvNkAAAAj/xero-code.gif">
